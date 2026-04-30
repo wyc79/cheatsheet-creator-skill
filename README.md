@@ -7,7 +7,7 @@ Outputs two markdown files — a concise cheatsheet and an expanded version with
 ## Download
 
 ```bash
-npx skills add cheatsheet-creator
+npx skills add git@github.com:wyc79/cheatsheet-creator-skill.git
 ```
 
 Or download `SKILL.md` directly and drop it in your agent's skills folder.
